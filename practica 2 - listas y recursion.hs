@@ -1,4 +1,4 @@
---Todo: practica 2 listas y recursion
+ --Todo: practica 2 listas y recursion
 
 sumatoria :: [Int] -> Int
 sumatoria []     = 0
